@@ -25,7 +25,7 @@ A comprehensive mosque management platform built with Laravel 8, designed to str
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/mosque2.git
+git clone https://github.com/mosque2/mosque2.git
 cd mosque2
 composer install
 cp .env.example .env
