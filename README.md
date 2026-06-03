@@ -1,4 +1,4 @@
-# Smart Donation and Volunteer Management System fo Al-Mukminun Mosque
+# Smart Donation and Volunteer Management System for Al-Mukminun Mosque
 
 A comprehensive mosque management platform built with Laravel 8, designed to streamline administration, donations, events, volunteer coordination, and community engagement.
 
